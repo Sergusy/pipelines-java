@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/hritzcuandrei/MyFirstProject/_apis/build/status/Sergusy.pipelines-java?branchName=master)](https://dev.azure.com/hritzcuandrei/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
